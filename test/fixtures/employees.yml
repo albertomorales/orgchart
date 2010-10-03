@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  first: MyString
+  last: MyString
+  department_id: 1
+  title: MyString
+
+two:
+  first: MyString
+  last: MyString
+  department_id: 1
+  title: MyString
